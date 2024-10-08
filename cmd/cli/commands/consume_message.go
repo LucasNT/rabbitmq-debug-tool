@@ -3,7 +3,7 @@ package commands
 import (
 	"strconv"
 
-	"github.com/LucasNT/rabbitmq-debug-tool/internal/rabbitmq"
+	"github.com/LucasNT/rabbitmq-helper-tool/internal/rabbitmq"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

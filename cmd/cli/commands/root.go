@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/LucasNT/rabbitmq-debug-tool/internal/utils"
+	"github.com/LucasNT/rabbitmq-helper-tool/internal/utils"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

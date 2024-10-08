@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/LucasNT/rabbitmq-debug-tool/cmd/cli/commands"
+	"github.com/LucasNT/rabbitmq-helper-tool/cmd/cli/commands"
 	"github.com/sirupsen/logrus"
 )
 

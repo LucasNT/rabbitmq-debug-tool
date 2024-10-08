@@ -1,4 +1,4 @@
-module github.com/LucasNT/rabbitmq-debug-tool
+module github.com/LucasNT/rabbitmq-helper-tool
 
 go 1.23.1
 
